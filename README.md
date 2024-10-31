@@ -18,7 +18,7 @@ Welcome to the WebService Project! This project is a RESTful web service built w
 
 caption1 | caption2
 :-: | :-:
-<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
+<video src='https://drive.google.com/uc?export=download&id=1T1GG7FL76nI3Ls6HAjsCg2ePQONKBVKt' width=180/> | <video src='video2.mp4' width=180/>
 
 ## Features
 
