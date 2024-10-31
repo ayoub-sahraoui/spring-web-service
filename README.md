@@ -8,13 +8,10 @@
 
 Welcome to the WebService Project! This project is a RESTful web service built with Java, Spring Boot, and Jersey. It provides a comprehensive API for managing bank accounts (`Compte`).
 
-## Demo Video
+## Demo Videos
 
-Watch the demo video below to see the project in action:
-
-[JSON Demo Video](https://drive.google.com/uc?export=download&id=1T1GG7FL76nI3Ls6HAjsCg2ePQONKBVKt)
-
-[XML Demo Video](https://drive.google.com/uc?export=download&id=16ZbfP9riXCKWCjR1jM4AHhB2UzAcqkpa)
+- [JSON Demo Video](https://drive.google.com/uc?export=download&id=1T1GG7FL76nI3Ls6HAjsCg2ePQONKBVKt)
+- [XML Demo Video](https://drive.google.com/uc?export=download&id=16ZbfP9riXCKWCjR1jM4AHhB2UzAcqkpa)
 
 ## Features
 
