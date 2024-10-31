@@ -14,6 +14,10 @@ Watch the demo video below to see the project in action:
 
 [JSON Demo Video](https://raw.githubusercontent.com/ayoub-sahraoui/spring-web-service/main/json-api.mp4)
 
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/ayoub-sahraoui/spring-web-service/main/json-api.mp4" type="video/mp4">
+</video>
+
 [XML Demo Video](https://raw.githubusercontent.com/ayoub-sahraoui/spring-web-service/main/xml-api.mp4)
 
 ## Features
