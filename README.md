@@ -10,8 +10,13 @@ Welcome to the WebService Project! This project is a RESTful web service built w
 
 ## Demo Videos
 
-- [JSON Demo Video](https://drive.google.com/uc?export=download&id=1T1GG7FL76nI3Ls6HAjsCg2ePQONKBVKt)
-- [XML Demo Video](https://drive.google.com/uc?export=download&id=16ZbfP9riXCKWCjR1jM4AHhB2UzAcqkpa)
+JSON:
+
+<iframe src="https://drive.google.com/file/d/1T1GG7FL76nI3Ls6HAjsCg2ePQONKBVKt/preview" width="640" height="480" allow="autoplay"></iframe>
+
+XML:
+
+<iframe src="https://drive.google.com/file/d/16ZbfP9riXCKWCjR1jM4AHhB2UzAcqkpa/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Features
 
