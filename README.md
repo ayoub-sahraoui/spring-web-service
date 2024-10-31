@@ -12,12 +12,9 @@ Welcome to the WebService Project! This project is a RESTful web service built w
 
 Watch the demo video below to see the project in action:
 
-[JSON Demo Video](https://raw.githubusercontent.com/ayoub-sahraoui/spring-web-service/main/json-api.mp4)
+[JSON Demo Video](https://drive.google.com/file/d/1T1GG7FL76nI3Ls6HAjsCg2ePQONKBVKt/view?usp=sharing)
 
-<video src="https://raw.githubusercontent.com/ayoub-sahraoui/spring-web-service/main/json-api.mp4" controls="controls" style="max-width: 100%;">
-</video>
-
-[XML Demo Video](https://raw.githubusercontent.com/ayoub-sahraoui/spring-web-service/main/xml-api.mp4)
+[XML Demo Video](https://drive.google.com/file/d/16ZbfP9riXCKWCjR1jM4AHhB2UzAcqkpa/view?usp=sharing)
 
 ## Features
 
